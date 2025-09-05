@@ -3,7 +3,7 @@
 ![Main Menu](./Assets/Art/UI/IneptGuardMenu.png)
 
 ## 🎮 Overview
-*Inept Guard* is a Unity project built as part of the Junior Programmer pathway.  
+*Inept Guard* is a Unity project built while reading through Harrison Ferrone's Learning C# by Developing Games with Unity. Great book, by the way. Solid intro to both C# and Unity!
 The player must outsmart an inept guard patrolling the level — if you get too close, the guard will clumsily chase you down. Survive, shoot, or find the hidden health capsule to claim victory!
 
 ## 🕹️ How to Play
@@ -23,4 +23,4 @@ The player must outsmart an inept guard patrolling the level — if you get too 
 
 ## 🚀 Play Online
 You can try the WebGL build on **Unity Play** here:  
-🎮 [Play Inept Guard](https://play.unity.com/) 
+🎮 [Play Inept Guard]([https://play.unity.com/en/games/0e45439f-3240-4a8d-abfd-faeb35e7153f/inept-guard]) 
