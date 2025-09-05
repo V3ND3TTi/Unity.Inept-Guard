@@ -18,7 +18,7 @@ The player must outsmart an inept guard patrolling the level — if you get too 
 - Find the **yellow spinning health capsule** hidden in the level to win.  
 
 ## 🛠️ Built With
-- [Unity 2023.x / 6.1+](https://unity.com/)  
+- [Unity 2023.1](https://unity.com/)  
 - C# (MonoBehaviour scripts)  
 
 ## 🚀 Play Online
