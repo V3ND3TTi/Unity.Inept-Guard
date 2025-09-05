@@ -1,6 +1,6 @@
 # Inept Guard
 
-![Main Menu](./Assets/Screenshots/MainMenu.png)
+![Main Menu](./Assets/Art/UI/IneptGuardMenu.png)
 
 ## 🎮 Overview
 *Inept Guard* is a Unity project built as part of the Junior Programmer pathway.  
