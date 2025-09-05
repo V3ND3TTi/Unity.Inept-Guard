@@ -23,4 +23,4 @@ The player must outsmart an inept guard patrolling the level — if you get too 
 
 ## 🚀 Play Online
 You can try the WebGL build on **Unity Play** here:  
-🎮 [Play Inept Guard]([https://play.unity.com/en/games/0e45439f-3240-4a8d-abfd-faeb35e7153f/inept-guard]) 
+🎮 [Play Inept Guard](https://play.unity.com/en/games/0e45439f-3240-4a8d-abfd-faeb35e7153f/inept-guard) 
